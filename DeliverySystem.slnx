@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DeliverySystem.Tests/DeliverySystem.Tests.csproj" Id="00dff7cf-7205-4e1c-8521-8720a094c4b1" />
+  <Project Path="DeliverySystem/DeliverySystem.csproj" />
+</Solution>
